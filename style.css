@@ -21,4 +21,35 @@ section{
 .color{
     color: orange;
 }
-    
+.text-align{
+    text-align: center;
+}
+.word-space{
+    word-spacing: 300px;
+    text-align: center;
+}
+.sec{
+    background-color: bisque;
+    padding-top: 70px;
+    padding-left: 50px;
+    padding-right: 200px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+  }
+  .tan{
+    padding-left: 80px;
+  }
+  .area{
+    box-shadow: 10px 10px 10px green;
+    width: 40%;
+    margin-left: 60px;
+    margin-right: 60px;
+    border-left: 20px;
+  }
+  .weight{
+    font-size: 35px;
+  }
+  
+  
+ 
+  }
